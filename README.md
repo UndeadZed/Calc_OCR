@@ -1,2 +1,3 @@
 # Calc_OCR
-A program which utilizes OCR to solve mathematical problems written by hand or printed
+A program which utilizes OCR to solve simple mathematical problems and logical statements written by hand
+
