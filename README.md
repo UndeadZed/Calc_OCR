@@ -49,10 +49,8 @@ python gui.py
 
 # Some notes about the calculator:
 
-## the OCR is based on easyocr which can cause some problems during installation
-## to solve most of them I found out that just by uninstalling and reinstalling numpy most of the problems are solved.
-
-## to do that you should use the following commands:
+### the OCR is based on easyocr which can cause some problems during installation
+to solve most of them I found out that just by uninstalling and reinstalling numpy most of the problems are solved and you can do that by using the following commands:
 
 ```python
 pip uninstall numpy
