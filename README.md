@@ -62,14 +62,18 @@ pip install numpy
 ### Example Runs:
 
 starting the gui:
-[![example gui run](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(1).png)
+![example gui run](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(1).png)
 selecing the folder:
-[![example gui run2](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(2).png)
+![example gui run2](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(2).png)
 selecting the image of the problem:
-[![example gui run3](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(3).png)
+![example gui run3](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(3).png)
 the output:
-[![example gui run4](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(4).png)
+![example gui run4](https://github.com/UndeadZed/Calc_OCR/blob/main/Screenshots/step%20(4).png)
 
+
+### the following image is the sample used in the example above:
+
+![sample image](https://github.com/UndeadZed/Calc_OCR/blob/main/example.jpg)
 
 # Credits:
 
